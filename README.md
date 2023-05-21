@@ -27,7 +27,9 @@
 
 ## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+![image](https://github.com/SubashiniSenniappan/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119404951/549500d6-5cb6-4024-9604-195f5c7a7396)
+
+
 
 ### Y-AXIS BASE :
 The base of the printer that supports the rest of the components.
@@ -74,9 +76,14 @@ material that is used to create the printed object.
 
 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
+
 
 ## Output:
+![image](https://github.com/SubashiniSenniappan/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119404951/3ac6f1db-4c48-427a-b234-ca4f84a351e8)
+
+
+
+
 
 ### Name:S.Subashini
 ### Register Number:212222240106
